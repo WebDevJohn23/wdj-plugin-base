@@ -1,5 +1,5 @@
 # WDJ Movie Plugin
- 
+  
 **Author:** [WebDevJohn](https://github.com/WebDevJohn23)  
 **License:** GPL-2.0+  
 **Status:** Active – under initial development.
