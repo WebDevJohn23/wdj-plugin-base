@@ -1,7 +1,7 @@
 # WDJ Plugin Base
 
 Status: Active
-     
+      
 ## Overview
 Minimal scaffold for new WordPress plugins. Includes a settings page, a sample option, and a sample shortcode.
 

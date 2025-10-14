@@ -12,7 +12,7 @@ add_action('admin_menu', 'wdj_plugin_base_adminmenu');
 
 
 // admin page
-function cwdj_plugin_base_adminpagee() {
+function wdj_plugin_base_adminpage() {
     echo "<h3>Coming Soon...</h3>";
 
 }
